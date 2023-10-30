@@ -11,22 +11,22 @@ class OurBusiness extends Component {
         const data = [
             {
                 img: finance_img,
-                title:'Integrated Loan Processing',
-                desc: "PT. Sentral Teknologi Integrasi provides quality products and services while maintaining the highest levels of ethical standards approach to handling various aspects of the loan origination",
+                title:'System Integrator',
+                desc: "PT. Sentral Teknologi Integrasi The primary goal of a system integrator is to ensure that different systems and technologies work together seamlessly to meet the specific needs and objectives of a business or organization.",
                 duration: 1000,
                 redirect: "/ILP"
             },
             {
                 img: enterprise_img,
-                title:'Mobile Integrated Loan Processing',
-                desc: "provides quality products and services for mobile while maintaining the highest levels of integration",
+                title:'Business Application Development',
+                desc: "Business applications are essential tools for streamlining operations, improving productivity, and achieving organizational goals.",
                 duration: 1500,
                 redirect: "/MILP"
             },
             {
                 img: sme_img,
-                title:'Regulatory Reporting',
-                desc: "Regulatory reporting is a process of collecting, organizing, and submitting financial data and information to regulatory authorities in compliance with established rules",
+                title:'Data Security)',
+                desc: "Data security encompasses various measures, technologies, and best practices aimed at ensuring the confidentiality, integrity, and availability of data. ",
                 duration: 2000,
                 redirect: "/RR"
             },

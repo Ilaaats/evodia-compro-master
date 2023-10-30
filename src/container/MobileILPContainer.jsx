@@ -5,8 +5,8 @@ import finance_img from '../assets/image/financial_services_img.png';
 class MobileILPContainer extends Component {
     state = { 
         img: finance_img,
-        title:'Mobile Integrated Loan Processing',
-        desc: "MILP in the context you're referring to, I recommend checking recent industry publications, websites, or contacting organizations or individuals directly involved in this field. Terms and acronyms in technology and finance can evolve, and new ones can emerge with time. Therefore, it's essential to access the most up-to-date information to understand their meanings and applications accurately.",
+        title:'Bussines Aplication Development',
+        desc: "PT. Sentral Teknologi Integrasi propose the concept of new application development using BPM (Business Process Management) and frame- work application development.  With the low-code platform, we can make our development fast and can be deployed with one click.",
      }
     render() {
         return (

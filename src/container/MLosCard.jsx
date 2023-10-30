@@ -10,30 +10,22 @@ class MLosCard extends Component {
     state = { } 
     render() { 
         const data = [
-            {
-                img: finance_img,
-                title:'Mobile Loan Origination System',
-                desc: "Decrease application turnaround time, launch new products quickly and proactively manage risk through ILP-LOS",
-                duration: 1000,
-                redirect: "/ILP-LOS"
-            },
+            
+           
+               
+            
             {
                 img: enterprise_img,
-                title:'Mobile Loan Collection System',
+                title:' Web-based Application',
                 desc: "Modernize and Streamline Profitable Lending Growth Without Disruption",
                 duration: 1500,
                 redirect: "/enterprise-level"
             },
-            {
-                img: sme_img,
-                title:'Digital Lending',
-                desc: "End-to-end debt collection system with Business Process Management (BPM)",
-                duration: 2000,
-                redirect: "/sme-level"
-            },
+           
+          
             {
                 img: db_middle_img,
-                title:'Pay Later System',
+                title:' Mobile Application',
                 desc: "Automated risk assessment and credit risk on a flexible and scalable software platform",
                 duration: 2500,
                 redirect: "/database-middleware"
@@ -45,8 +37,8 @@ class MLosCard extends Component {
         })
         return (
             <div id="our-business" className="p-12">
-                <p className='text-4xl font-bold text-[#e52a37] text-center py-20' data-aos="fade-up" data-aos-duration="3000">Mobile-ILP Product</p>
-                <div className="flex flex-wrap gap-6 lg:grid lg:grid-cols-4">
+                <p className='text-4xl font-bold text-[#e52a37] text-center py-20' data-aos="fade-up" data-aos-duration="3000">Bussines Aplication Development Product</p>
+                <div className="flex flex-wrap gap-6 lg:grid lg:grid-cols-2">
                     {data}
                 </div>
             </div>

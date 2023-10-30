@@ -14,9 +14,6 @@ class RegulatoryReporting extends Component {
             <div>
                 <Navbar/>
                 <RegulatoryReportingContainer/>
-                <RRCard/>
-                <RRDesc/>
-                <RRDetail/>
                 <Footer/>
             </div>
         );

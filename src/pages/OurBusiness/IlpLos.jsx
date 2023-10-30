@@ -13,10 +13,6 @@ class IlpLos extends Component {
             <div>
                 <Navbar/>
                 <IlpLosContainer/>
-                <LosCard/>
-                <LosDesc/>
-                <LosDetail/>
-
                 <Footer/>
             </div>
         );

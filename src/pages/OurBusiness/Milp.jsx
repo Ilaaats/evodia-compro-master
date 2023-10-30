@@ -15,8 +15,6 @@ class Milp extends Component {
                 <Navbar/>
                 <MobileILPContainer/>
                 <MLosCard/>
-                <MilpDesc/>
-                <MilpDetail/>
                 <Footer/>
             </div>
         );

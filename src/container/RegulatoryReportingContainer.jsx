@@ -5,8 +5,8 @@ import OurBusinessPageComp from '../component/OurBusinessPageComp';
 class RegulatoryReportingContainer extends Component {
     state = { 
         img: gambar4,
-        title:'Regulatory Reporting',
-        desc: "We aim to support small and medium enterprise level to achieve faster growth in technology aspect by providing solution that meets customer’s budget",
+        title:'Data Security',
+        desc: "Data security, also known as information security, is the practice of protecting digital data, both in transit and at rest, from unauthorized access, disclosure, alteration, or destruction. It is a critical aspect of information technology and is essential for safeguarding sensitive and confidential information. Data security encompasses various measures, technologies, and best practices aimed at ensuring the confidentiality, integrity, and availability of data. ",
      } 
     render() { 
         return (
