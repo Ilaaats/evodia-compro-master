@@ -7,7 +7,7 @@ class ProductRRContainer extends Component {
     state = { 
         img: gambar5,
         title:'BI-Antasena',
-        desc: "A well-integrated solutions framework and it’s implementation to support your business are provided such as Data warehouse, Business Intelligence, Middleware. \n\nWe are providing Oracle, PostgreSQL, SQL, Server and My SQL with 24/7 support from our team.",
+        desc: "Integrated reporting system built jointly by BI, OJK and LPS. This reporting system integrates 6 (six) existing reports (LBU, LSMK, LBBUK, LBBUS, LHBU, and LKPBU) and is metadata-based to realize 'one data' for banking.",
     } 
     render() { 
         return (

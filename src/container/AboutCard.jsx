@@ -23,7 +23,7 @@ class AboutCard extends Component {
         <section className="bg-white py-56 lg:py-0">
           <div className="px-6 py-4 lg:px-20  lg:py-56">
             <div className="grid grid-cols-1 lg:grid gap-4  lg:grid-cols-3 pt-20 lg:pt-0 lg:h-96">
-              <div className="border-2 rounded-lg border-red-600" data-aos="fade-up" data-aos-duration="1000">
+              <div className="border-2 grid-cols-1 rounded-lg border-red-600" data-aos="fade-up" data-aos-duration="1000">
                 <img className="px-32 py-14" src={Hand} alt="" items-center />
                 <p className="relative bottom-5 text-center px-12"><span className="text-black text-center font-bold">{deskripsi.important}</span> {deskripsi.words}</p>
               </div>

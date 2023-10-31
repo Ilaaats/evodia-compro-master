@@ -6,8 +6,8 @@ import OurProductPageComp from '../component/OurProductPageComp';
 class ProductRRDesc2 extends Component {
     state = { 
         img: gambar7_img,
-        title:'Sistem Layanan Informasi Keuangan',
-        desc: "A well-integrated solutions framework and it’s implementation to support your business are provided such as Data warehouse, Business Intelligence, Middleware. \n\nWe are providing Oracle, PostgreSQL, SQL, Server and My SQL with 24/7 support from our team.",
+        title:'Financial Information Services System',
+        desc: "SLIK is an information system whose management aims to carry out supervisory duties and provide financial information services, one of which is in the form of providing debtor information (iDeb).",
     } 
     render() { 
         return (

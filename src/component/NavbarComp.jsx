@@ -104,7 +104,7 @@ class Navbar extends Component{
                                     <div className="invisible opacity-0 flex absolute group-hover:opacity-100 group-hover:visible transition delay-75 translate-y-11 group-hover:translate-y-0 duration-300 w-[215px] py-2 font-semibold text-sm flex-col bg-white drop-shadow-md rounded">
                                     <Link to="/ILP" className="px-5 py-2 hover:text-[#e52a37]">Sytem Integrator</Link>
                                         <Link to="/MILP" className="px-5 py-2 hover:text-[#e52a37]">Business Application Development</Link>
-                                        <Link to="/RR" className="px-5 py-2 hover:text-[#e52a37]">Data Security and Data Analytic</Link>
+                                        <Link to="/RR" className="px-5 py-2 hover:text-[#e52a37]">Data Security</Link>
                                         {/* <Link to="/enterprise-level" className="px-5 py-2 hover:text-[#e52a37]">Enterprise Level</Link> */}
                                         
                                         <Link to="/financial-solutions" className="px-5 py-2 hover:text-[#e52a37]">Analisa Data and SaaS (Software as a Services).</Link>

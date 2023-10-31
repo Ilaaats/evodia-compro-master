@@ -27,15 +27,15 @@ class RRCard extends Component {
             },
             {
                 img: sme_img,
-                title:'Sistem Layanan Informasi Keuangan',
+                title:'Financial Information Services System',
                 desc: "End-to-end debt collection system with Business Process Management (BPM)",
                 duration: 2000,
                 redirect: "/sme-level"
             },
             {
                 img: db_middle_img,
-                title:'LPS-SCV',
-                desc: "Automated risk assessment and credit risk on a flexible and scalable software platform",
+                title:'LPS-SCV (Single Customer View)',
+                desc: "Comprehensive information regarding each customer's savings and loans at a bank as well as the value of savings that can be guaranteed in accordance with the provisions of the deposit guarantee program.",
                 duration: 2500,
                 redirect: "/database-middleware"
             },

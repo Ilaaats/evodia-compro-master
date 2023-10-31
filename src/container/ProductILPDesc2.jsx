@@ -7,7 +7,7 @@ class ProductILPDesc2 extends Component {
     state = { 
         img: db_middleware_img,
         title:'Loan Collection System',
-        desc: "A well-integrated solutions framework and it’s implementation to support your business are provided such as Data warehouse, Business Intelligence, Middleware. \n\nWe are providing Oracle, PostgreSQL, SQL, Server and My SQL with 24/7 support from our team.",
+        desc: "Collection System is a customer-centric, web-based and workflow-driven solution that enables banking and financial companies to manage, monitor and control delinquent loan accounts and automate loan collection management frameworks.",
     } 
     render() { 
         return (

@@ -16,8 +16,8 @@ const ProductNonFinanceDesc = () => {
                 </div>
             </div>
             <div className="px-10 lg:pb-24 lg:pl-12 lg:w-1/2 lg:pt-24" data-aos="fade-up" data-aos-duration="3000">
-                <p className='font-bold text-[#e52a37] text-left text-2xl mb-5 lg:text-4xl'>TMMS</p>
-                <p className='font-medium text-dark text-justify mb-10 leading-relaxed'>Our REGULATORY REPORTING provides a comprehensive service of loan processes and enables business administrators in the financial institution to independently manage all of the elements of the processes, including a process itself, user screens, printouts, business parameters and logic (algorithms). The configurability and flexibility of ILP (Integrated Loan Processing) decrease the time of implementing changes or new products to the minimum. Its testing functions allow to implement correct and verified products. Thus, all functions that are necessary to sell banking products for individual or business clients are now available on a single loan platform.</p>
+                <p className='font-bold text-[#e52a37] text-left text-2xl mb-5 lg:text-4xl'>TMMS(Tenant & Merchant Management System)</p>
+                <p className='font-medium text-dark text-justify mb-10 leading-relaxed'>a software application that facilitates the management of rental properties, including tasks such as lease tracking, rent collection, maintenance requests, and communication with tenants.</p>
                 <div className="flex items-start">
                 {/* <Link to="/about-more" className="text-base font-semibold text-white bg-[#e52a37] py-2 px-8 rounded-lg   hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out"
                     >Read More <i className="fas fa-arrow-right"></i></Link> */}

@@ -26,11 +26,11 @@ const ContactContainer = () => {
                 <div className="flex items-start">
                 {/* <Link to="https://api.whatsapp.com/send?phone=085893299552" target='_blank' className="text-base font-semibold text-white bg-[#e52a37] py-2 px-8 rounded-lg   hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out mr-10"
                     >Contact Person<i className="fas fa-arrow-right"></i></Link> */}
-                    <a href='https://api.whatsapp.com/send?phone=082158905002' target="_blank"><img src={crm} alt="" width={50} height={50} className="mr-10 mt-7 mb-10" type="button"></img></a>
+                  
                     <a href='https://www.google.com/maps/place/INFINITI+OFFICE+%7C+Virtual+Office+Jakarta+Barat/@-6.2084443,106.7616059,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f725fb6f501d:0x4a41a24e31957c54!8m2!3d-6.2084496!4d106.7641808!16s%2Fg%2F11dfpd9t2g?entry=ttu' target="_blank"><img src={loc} alt="" width={50} height={50} className="mr-10 mt-5 mb-7" type="button"></img></a>
                 </div>
-                <Link to="/about-more" className="text-base font-semibold text-white bg-[#e52a37] py-2 px-8 rounded-lg   hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out mt-7 "
-                    >More Info...<i className="fas fa-arrow-right"></i></Link>
+                {/* <Link to="/about-more" className="text-base font-semibold text-white bg-[#e52a37] py-2 px-8 rounded-lg   hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out mt-7 "
+                    >More Info...<i className="fas fa-arrow-right"></i></Link> */}
                     
             </div>
         </div>

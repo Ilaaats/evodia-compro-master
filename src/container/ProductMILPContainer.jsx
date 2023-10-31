@@ -7,7 +7,7 @@ class ProductMILPContainer extends Component {
     state = { 
         img: db_middleware_img,
         title:'Mobile-Loan Origination System',
-        desc: "A well-integrated solutions framework and it’s implementation to support your business are provided such as Data warehouse, Business Intelligence, Middleware. \n\nWe are providing Oracle, PostgreSQL, SQL, Server and My SQL with 24/7 support from our team.",
+        desc: "A Mobile Loan Origination System is a software application or platform that allows financial institutions, such as banks, credit unions, or online lenders, to facilitate the loan origination process through mobile devices.",
     } 
     render() { 
         return (
