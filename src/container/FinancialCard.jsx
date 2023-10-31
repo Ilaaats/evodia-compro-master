@@ -12,31 +12,18 @@ class FinancialCard extends Component {
     state = { } 
     render() { 
         const data = [
-            {
-                img: finance_img,
-                title:'Restrukturisasi Kredit',
-                desc: "Decrease application turnaround time, launch new products quickly and proactively manage risk through ILP-LOS",
-                duration: 1000,
-                redirect: "/ILP-LOS"
-            },
-            {
-                img: enterprise_img,
-                title:'E-Form(Electronic Form)',
-                desc: "Modernize and Streamline Profitable Lending Growth Without Disruption",
-                duration: 1500,
-                redirect: "/enterprise-level"
-            },
+        
             {
                 img: sme_img,
-                title:'MiGS (Payment Gateway)',
-                desc: "End-to-end debt collection system with Business Process Management (BPM)",
+                title:'Data Warehouse',
+                desc: "Has the relevant experience in supporting and managing all aspects of Big Data & Data Warehouse project. ",
                 duration: 2000,
                 redirect: "/sme-level"
             },
             {
                 img: db_middle_img,
-                title:'Core System',
-                desc: "Automated risk assessment and credit risk on a flexible and scalable software platform",
+                title:'Big Data',
+                desc: "Big data analytics enables organizations to analyze a mix of structured, and unstructured data in search of valuable business information and insights.",
                 duration: 2500,
                 redirect: "/database-middleware"
             },
@@ -47,12 +34,13 @@ class FinancialCard extends Component {
         })
         return (
             <div id="our-business" className="p-12">
-                <p className='text-4xl font-bold text-[#e52a37] text-center py-20' data-aos="fade-up" data-aos-duration="3000">Financial Product</p>
-                <div className="flex flex-wrap gap-6 lg:grid lg:grid-cols-4">
+                <p className='text-4xl font-bold text-[#e52a37] text-center py-20' data-aos="fade-up" data-aos-duration="3000">Data Analytic Product</p>
+                <div className="flex flex-wrap gap-6 lg:grid lg:grid-cols-2">
                     {data}
                 </div>
             </div>
         );
+        
     }
 }
 

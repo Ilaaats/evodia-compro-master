@@ -4,8 +4,8 @@ import {Link} from 'react-router-dom';
 class GetStarted extends Component {
   render() {
     const mulai = {
-      title: "Let's get started",
-      desc: 'Are you ready for a better, more productive business?',
+      title: "Let's Get Started",
+      desc: 'Are You Ready For a Better, More Productive Business?',
     };
     return (
       <section id="contact-us" className="bg-red-500 py-36 text-center">

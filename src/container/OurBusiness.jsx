@@ -25,14 +25,14 @@ class OurBusiness extends Component {
             },
             {
                 img: sme_img,
-                title:'Data Security)',
+                title:'Data Security',
                 desc: "Data security encompasses various measures, technologies, and best practices aimed at ensuring the confidentiality, integrity, and availability of data. ",
                 duration: 2000,
                 redirect: "/RR"
             },
             {
                 img: db_middle_img,
-                title:'Financial',
+                title:'Analisa Data and SaaS (Software as a Services).',
                 desc: "Providing an extensive array of financial solutions is a hallmark of our commitment to helps individuals and businesses to achieve their unique financial aspirations",
                 duration: 2500,
                 redirect: "/financial-solutions"

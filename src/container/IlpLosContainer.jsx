@@ -6,7 +6,7 @@ class IlpLosContainer extends Component {
     state = { 
         img: db_middleware_img,
         title:'System Integrator',
-        desc: "A system integrator is a company or individual that specializes in bringing together different hardware and software components to create a unified and functioning system or network. Their primary goal is to ensure that all the various systems, applications, and technologies used within an organization work harmoniously and efficiently.",
+        desc: "PT. Sentral Teknologi Integrasi is ready to help our customers to meet your business goals through the utilization of IT hardware that best fits your business needs. You can surely rely on us for smooth setup and integration of your infrastructure. ",
     } 
     render() { 
         return (

@@ -22,12 +22,12 @@ class Footer extends Component {
                         </div>
                         <div className='flex flex-col lg:flex lg:flex-col gap-2'>
                             <p className='font-bold pb-2 hover:text-[#e52a37] transition duration-300 ease-in-out'>Our Business</p>
-                            <p><Link to="/ILP" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Integrated Loan Processing</Link></p>
-                            <p><Link to="/MILP" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Mobile-Integrated Loan Processing</Link></p>
-                            <p><Link to="/RR" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Regulatory Reporting</Link></p>
+                            <p><Link to="/ILP" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>System Integrator</Link></p>
+                            <p><Link to="/MILP" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Bussines Application Development</Link></p>
+                            <p><Link to="/RR" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Data Security</Link></p>
                             {/* <p><Link to="/enterprise-level" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Enterprise Level</Link></p> */}
                             
-                            <p><Link to="/financial-solutions" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Financial Solutions</Link></p>
+                            <p><Link to="/financial-solutions" className='py-1 hover:text-[#e52a37] transition duration-300 ease-in-out'>Data Analytic and SaaS (Software As a Service)</Link></p>
                            
                         </div>
                         <div className='flex flex-col'>

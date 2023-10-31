@@ -17,7 +17,7 @@ class MLosCard extends Component {
             {
                 img: enterprise_img,
                 title:' Web-based Application',
-                desc: "Modernize and Streamline Profitable Lending Growth Without Disruption",
+                desc: "We develop the application (web-based, mobile apps and portal) with the UI drag-and-drop environment solution",
                 duration: 1500,
                 redirect: "/enterprise-level"
             },
@@ -26,7 +26,7 @@ class MLosCard extends Component {
             {
                 img: db_middle_img,
                 title:' Mobile Application',
-                desc: "Automated risk assessment and credit risk on a flexible and scalable software platform",
+                desc: "propose the concept of new application development using BPM (Business Process Management) and frame- work application development. ",
                 duration: 2500,
                 redirect: "/database-middleware"
             },
