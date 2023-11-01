@@ -23,6 +23,8 @@ const ContactContainer = () => {
             <div className="px-10 lg:pb-24 lg:pl-12 lg:w-1/2 lg:pt-24" data-aos="fade-up" data-aos-duration="3000">
                 <p className='font-bold text-[#e52a37] text-left text-2xl mb-5 lg:text-4xl'>Contact Us</p>
                 <p className='font-medium text-dark text-justify mb-10 leading-relaxed'>PT Sentral Teknologi Integrasi Located in Infiniti Office Jakarta Barat. If you have questions or inquiries? Get in touch with us! Our dedicated team is ready to assist you. Contact us today for prompt and personalized support</p>
+                <p className='font-medium text-dark text-justify mb-2 leading-relaxed'>Telp    :+62-21-58905002</p>
+                <p className='font-medium text-dark text-justify mb-2 leading-relaxed'>Email : sentralteknologi.info@gmail.com</p>
                 <div className="flex items-start">
                 {/* <Link to="https://api.whatsapp.com/send?phone=085893299552" target='_blank' className="text-base font-semibold text-white bg-[#e52a37] py-2 px-8 rounded-lg   hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out mr-10"
                     >Contact Person<i className="fas fa-arrow-right"></i></Link> */}

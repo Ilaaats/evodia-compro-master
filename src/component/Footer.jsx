@@ -41,7 +41,7 @@ class Footer extends Component {
                         <div className='flex flex-col'>
                             <p className='font-bold pb-3 hover:text-[#e52a37] transition duration-300 ease-in-out'>Contact Us</p>
                             <p className='py-1'> +62-21-58905002</p>
-                            <p className='py-1'>info@sentralteknologi.com</p>
+                            <p className='py-1'>sentralteknologi.info@gmail.com</p>
                         </div>
                     </div>
                 </div>
